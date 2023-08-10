@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "409032957272",
+    "project_id": "waterdleiveryapp",
+    "storage_bucket": "waterdleiveryapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409032957272:android:d25aae45a995d78609592d",
+        "android_client_info": {
+          "package_name": "com.example.waterdleiveryapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "409032957272-t79uk31rcerja8le3pkvdgqdd8i42d3e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnAZ42gPMmTx7c73QDnn1_O4uPKfVrrVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "409032957272-t79uk31rcerja8le3pkvdgqdd8i42d3e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
